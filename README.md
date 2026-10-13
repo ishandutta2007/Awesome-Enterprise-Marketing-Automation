@@ -10,7 +10,7 @@
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square" alt="License: MIT"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Enterprise-Marketing-Automation/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"/></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Enterprise-Marketing-Automation/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Enterprise-Marketing-Automation?style=flat-square&color=gold" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Enterprise-Marketing-Automation/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Enterprise-Marketing-Automation?style=flat-square&color=gold" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
 
@@ -76,134 +76,134 @@ Below is the curated breakdown of enterprise SaaS marketing automation suites, s
 
 ## 🔓 Open-Source GitHub Projects (Ranked by Stars)
 
-Each open-source repository below includes a real-time star badge linking to its GitHub stargazers page. Repositories are strictly sorted in **descending order of star count**.
+Each open-source repository below includes a real-time Stars_Badge linking to its GitHub stargazers page. Repositories are strictly sorted in **descending order of Stars_Count**.
 
-### 1. [n8n](https://github.com/n8n-io/n8n) [![GitHub stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white)](https://github.com/n8n-io/n8n/stargazers)
+### 1. [n8n](https://github.com/n8n-io/n8n) [![GitHub_Stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white)](https://github.com/n8n-io/n8n/stargazers)
 - **Primary Focus**: Fair-code workflow automation and orchestration with native AI agents.
 - **License**: Sustainable Use License / Fair-code
 - **Why It Matters**: Often dubbed the open-source alternative to Zapier and Make, n8n enables engineering teams to build sophisticated event-driven marketing workflows, sync CRM pipelines, and integrate with 400+ SaaS services with self-hosted sovereignty.
 
-### 2. [Twenty](https://github.com/twentyhq/twenty) [![GitHub stars](https://img.shields.io/github/stars/twentyhq/twenty?style=social&color=white)](https://github.com/twentyhq/twenty/stargazers)
+### 2. [Twenty](https://github.com/twentyhq/twenty) [![GitHub_Stars](https://img.shields.io/github/stars/twentyhq/twenty?style=social&color=white)](https://github.com/twentyhq/twenty/stargazers)
 - **Primary Focus**: The modern open-source CRM alternative to Salesforce, built for AI.
 - **License**: AGPL-3.0
 - **Why It Matters**: Features custom object modeling, relational customer views, Kanban pipelines, and GraphQL/REST APIs to store unified customer records and power downstream automation.
 
-### 3. [PostHog](https://github.com/PostHog/posthog) [![GitHub stars](https://img.shields.io/github/stars/PostHog/posthog?style=social&color=white)](https://github.com/PostHog/posthog/stargazers)
+### 3. [PostHog](https://github.com/PostHog/posthog) [![GitHub_Stars](https://img.shields.io/github/stars/PostHog/posthog?style=social&color=white)](https://github.com/PostHog/posthog/stargazers)
 - **Primary Focus**: Product analytics, feature flags, web analytics, session replay, and CDP.
 - **License**: MIT / Proprietary
 - **Why It Matters**: Provides product-led growth (PLG) teams with in-depth behavioral event ingestion, user cohort segmentation, and webhook-driven campaign triggers for lifecycle automation.
 
-### 4. [Novu](https://github.com/novuhq/novu) [![GitHub stars](https://img.shields.io/github/stars/novuhq/novu?style=social&color=white)](https://github.com/novuhq/novu/stargazers)
+### 4. [Novu](https://github.com/novuhq/novu) [![GitHub_Stars](https://img.shields.io/github/stars/novuhq/novu?style=social&color=white)](https://github.com/novuhq/novu/stargazers)
 - **Primary Focus**: Open-source cross-channel notification infrastructure for products and AI agents.
 - **License**: MIT
 - **Why It Matters**: Unifies transactional and marketing messaging delivery across Email, SMS, Push, Chat, and In-App notification centers with centralized preference controls.
 
-### 5. [Chatwoot](https://github.com/chatwoot/chatwoot) [![GitHub stars](https://img.shields.io/github/stars/chatwoot/chatwoot?style=social&color=white)](https://github.com/chatwoot/chatwoot/stargazers)
+### 5. [Chatwoot](https://github.com/chatwoot/chatwoot) [![GitHub_Stars](https://img.shields.io/github/stars/chatwoot/chatwoot?style=social&color=white)](https://github.com/chatwoot/chatwoot/stargazers)
 - **Primary Focus**: Customer engagement suite and omni-channel support desk.
 - **License**: MIT
 - **Why It Matters**: Open-source alternative to Intercom and Zendesk. Delivers live chat, email inbound, WhatsApp, and social automation with automated conversation routing and campaign outreach.
 
-### 6. [Activepieces](https://github.com/activepieces/activepieces) [![GitHub stars](https://img.shields.io/github/stars/activepieces/activepieces?style=social&color=white)](https://github.com/activepieces/activepieces/stargazers)
+### 6. [Activepieces](https://github.com/activepieces/activepieces) [![GitHub_Stars](https://img.shields.io/github/stars/activepieces/activepieces?style=social&color=white)](https://github.com/activepieces/activepieces/stargazers)
 - **Primary Focus**: Open-source automation tool with AI agents and MCP server integration.
 - **License**: MIT
 - **Why It Matters**: Enables no-code builders to automate lead routing, email drip campaigns, and data enrichment across modern marketing tools with full self-hosting.
 
-### 7. [Listmonk](https://github.com/knadh/listmonk) [![GitHub stars](https://img.shields.io/github/stars/knadh/listmonk?style=social&color=white)](https://github.com/knadh/listmonk/stargazers)
+### 7. [Listmonk](https://github.com/knadh/listmonk) [![GitHub_Stars](https://img.shields.io/github/stars/knadh/listmonk?style=social&color=white)](https://github.com/knadh/listmonk/stargazers)
 - **Primary Focus**: High-performance, self-hosted newsletter and mailing list manager.
 - **License**: AGPL-3.0
 - **Why It Matters**: Built in Go with PostgreSQL. Capable of dispatching millions of emails per hour with ultra-low memory overhead, template managers, analytics, and subscriber lists.
 
-### 8. [Matomo](https://github.com/matomo-org/matomo) [![GitHub stars](https://img.shields.io/github/stars/matomo-org/matomo?style=social&color=white)](https://github.com/matomo-org/matomo/stargazers)
+### 8. [Matomo](https://github.com/matomo-org/matomo) [![GitHub_Stars](https://img.shields.io/github/stars/matomo-org/matomo?style=social&color=white)](https://github.com/matomo-org/matomo/stargazers)
 - **Primary Focus**: Privacy-compliant web analytics and marketing attribution platform.
 - **License**: GPL-3.0
 - **Why It Matters**: The leading GDPR-compliant open alternative to Google Analytics 4. Features marketing attribution modeling, goal funnel tracking, heatmaps, and campaign URL tagging.
 
-### 9. [Mautic](https://github.com/mautic/mautic) [![GitHub stars](https://img.shields.io/github/stars/mautic/mautic?style=social&color=white)](https://github.com/mautic/mautic/stargazers)
+### 9. [Mautic](https://github.com/mautic/mautic) [![GitHub_Stars](https://img.shields.io/github/stars/mautic/mautic?style=social&color=white)](https://github.com/mautic/mautic/stargazers)
 - **Primary Focus**: Full-featured open-source marketing automation platform.
 - **License**: GPL-3.0
 - **Why It Matters**: The world's largest dedicated open-source marketing automation suite. Offers visual multi-stage campaign builders, email marketing, landing page builders, contact scoring, and dynamic web content.
 
-### 10. [GrowthBook](https://github.com/growthbook/growthbook) [![GitHub stars](https://img.shields.io/github/stars/growthbook/growthbook?style=social&color=white)](https://github.com/growthbook/growthbook/stargazers)
+### 10. [GrowthBook](https://github.com/growthbook/growthbook) [![GitHub_Stars](https://img.shields.io/github/stars/growthbook/growthbook?style=social&color=white)](https://github.com/growthbook/growthbook/stargazers)
 - **Primary Focus**: Open-source feature flagging and A/B testing experimentation platform.
 - **License**: MIT
 - **Why It Matters**: Connects directly to existing data warehouses (Snowflake, BigQuery, Redshift, ClickHouse) to evaluate campaign conversion lift and optimize customer engagement funnels.
 
-### 11. [SuiteCRM](https://github.com/SuiteCRM/SuiteCRM) [![GitHub stars](https://img.shields.io/github/stars/SuiteCRM/SuiteCRM?style=social&color=white)](https://github.com/SuiteCRM/SuiteCRM/stargazers)
+### 11. [SuiteCRM](https://github.com/SuiteCRM/SuiteCRM) [![GitHub_Stars](https://img.shields.io/github/stars/SuiteCRM/SuiteCRM?style=social&color=white)](https://github.com/SuiteCRM/SuiteCRM/stargazers)
 - **Primary Focus**: Enterprise-grade open-source customer relationship management.
 - **License**: AGPL-3.0
 - **Why It Matters**: Successor to SugarCRM Community Edition. Includes workflow automation, email marketing campaign modules, lead assignment rules, and customer service tracking.
 
-### 12. [Plunk](https://github.com/useplunk/plunk) [![GitHub stars](https://img.shields.io/github/stars/useplunk/plunk?style=social&color=white)](https://github.com/useplunk/plunk/stargazers)
+### 12. [Plunk](https://github.com/useplunk/plunk) [![GitHub_Stars](https://img.shields.io/github/stars/useplunk/plunk?style=social&color=white)](https://github.com/useplunk/plunk/stargazers)
 - **Primary Focus**: Developer-friendly open-source email marketing platform.
 - **License**: AGPL-3.0
 - **Why It Matters**: Powered by AWS SES. Provides clean REST APIs for transactional notifications, automated marketing event triggers, and broadcast newsletter delivery.
 
-### 13. [RudderStack Server](https://github.com/rudderlabs/rudder-server) [![GitHub stars](https://img.shields.io/github/stars/rudderlabs/rudder-server?style=social&color=white)](https://github.com/rudderlabs/rudder-server/stargazers)
+### 13. [RudderStack Server](https://github.com/rudderlabs/rudder-server) [![GitHub_Stars](https://img.shields.io/github/stars/rudderlabs/rudder-server?style=social&color=white)](https://github.com/rudderlabs/rudder-server/stargazers)
 - **Primary Focus**: Privacy- and security-focused Customer Data Pipeline (Segment alternative).
 - **License**: AGPL-3.0 / Fair-code
 - **Why It Matters**: Collects, transforms, and routes customer event streams from websites and mobile apps into data warehouses and downstream marketing destinations in real time.
 
-### 14. [EspoCRM](https://github.com/espocrm/espocrm) [![GitHub stars](https://img.shields.io/github/stars/espocrm/espocrm?style=social&color=white)](https://github.com/espocrm/espocrm/stargazers)
+### 14. [EspoCRM](https://github.com/espocrm/espocrm) [![GitHub_Stars](https://img.shields.io/github/stars/espocrm/espocrm?style=social&color=white)](https://github.com/espocrm/espocrm/stargazers)
 - **Primary Focus**: Lightweight, responsive open-source CRM application.
 - **License**: AGPL-3.0
 - **Why It Matters**: Features built-in mass email marketing campaigns, mail merge, auto-responders, sales pipeline tracking, and BPM (Business Process Management) logic.
 
-### 15. [Dittofeed](https://github.com/dittofeed/dittofeed) [![GitHub stars](https://img.shields.io/github/stars/dittofeed/dittofeed?style=social&color=white)](https://github.com/dittofeed/dittofeed/stargazers)
+### 15. [Dittofeed](https://github.com/dittofeed/dittofeed) [![GitHub_Stars](https://img.shields.io/github/stars/dittofeed/dittofeed?style=social&color=white)](https://github.com/dittofeed/dittofeed/stargazers)
 - **Primary Focus**: Developer-first open-source customer engagement and journey platform.
 - **License**: MIT
 - **Why It Matters**: Modern alternative to Braze and Customer.io built on Temporal and ClickHouse. Features drag-and-drop journey builder, git-based workflows, and multi-channel support (Email, SMS, Push, WhatsApp).
 
-### 16. [Laudspeaker](https://github.com/laudspeaker/laudspeaker) [![GitHub stars](https://img.shields.io/github/stars/laudspeaker/laudspeaker?style=social&color=white)](https://github.com/laudspeaker/laudspeaker/stargazers)
+### 16. [Laudspeaker](https://github.com/laudspeaker/laudspeaker) [![GitHub_Stars](https://img.shields.io/github/stars/laudspeaker/laudspeaker?style=social&color=white)](https://github.com/laudspeaker/laudspeaker/stargazers)
 - **Primary Focus**: Open-source customer journey automation and product onboarding.
 - **License**: AGPL-3.0
 - **Why It Matters**: Visual journey builder for event-triggered messages (email, SMS, Firebase push, webhooks), time delay logic, user cohort filtering, and native PostHog integration.
 
-### 17. [SendPortal](https://github.com/mettle/sendportal) [![GitHub stars](https://img.shields.io/github/stars/mettle/sendportal?style=social&color=white)](https://github.com/mettle/sendportal/stargazers)
+### 17. [SendPortal](https://github.com/mettle/sendportal) [![GitHub_Stars](https://img.shields.io/github/stars/mettle/sendportal?style=social&color=white)](https://github.com/mettle/sendportal/stargazers)
 - **Primary Focus**: Self-hosted email marketing and newsletter management.
 - **License**: MIT
 - **Why It Matters**: Built on Laravel. Offers subscriber segmentation, message scheduling, tracking metrics, and multi-provider relay (SES, SendGrid, Mailgun, Postmark).
 
-### 18. [Meridian (Google)](https://github.com/google/meridian) [![GitHub stars](https://img.shields.io/github/stars/google/meridian?style=social&color=white)](https://github.com/google/meridian/stargazers)
+### 18. [Meridian (Google)](https://github.com/google/meridian) [![GitHub_Stars](https://img.shields.io/github/stars/google/meridian?style=social&color=white)](https://github.com/google/meridian/stargazers)
 - **Primary Focus**: Marketing Mix Modeling (MMM) framework with Bayesian causal inference.
 - **License**: Apache-2.0
 - **Why It Matters**: Developed by Google to estimate the incremental ROI and impact of marketing channels, calibrate response curves, and optimize overall budget allocations.
 
-### 19. [OroCRM](https://github.com/oroinc/crm) [![GitHub stars](https://img.shields.io/github/stars/oroinc/crm?style=social&color=white)](https://github.com/oroinc/crm/stargazers)
+### 19. [OroCRM](https://github.com/oroinc/crm) [![GitHub_Stars](https://img.shields.io/github/stars/oroinc/crm?style=social&color=white)](https://github.com/oroinc/crm/stargazers)
 - **Primary Focus**: Open-source B2B and commerce CRM with marketing workflow modules.
 - **License**: OSL-3.0
 - **Why It Matters**: Unifies customer 360 views across digital commerce stores, providing targeted email campaigns, RFM analytics, and lead capture workflows.
 
-### 20. [Tracardi](https://github.com/Tracardi/tracardi) [![GitHub stars](https://img.shields.io/github/stars/Tracardi/tracardi?style=social&color=white)](https://github.com/Tracardi/tracardi/stargazers)
+### 20. [Tracardi](https://github.com/Tracardi/tracardi) [![GitHub_Stars](https://img.shields.io/github/stars/Tracardi/tracardi?style=social&color=white)](https://github.com/Tracardi/tracardi/stargazers)
 - **Primary Focus**: Composable open-source Customer Data Platform (CDP) engine.
 - **License**: MIT with Common Clause
 - **Why It Matters**: Collects real-time customer behavioral events, computes unified identity profiles, and executes graphical automation workflows for personalized omnichannel marketing.
 
-### 21. [Parcelvoy](https://github.com/parcelvoy/platform) [![GitHub stars](https://img.shields.io/github/stars/parcelvoy/platform?style=social&color=white)](https://github.com/parcelvoy/platform/stargazers)
+### 21. [Parcelvoy](https://github.com/parcelvoy/platform) [![GitHub_Stars](https://img.shields.io/github/stars/parcelvoy/platform?style=social&color=white)](https://github.com/parcelvoy/platform/stargazers)
 - **Primary Focus**: Open-source multi-channel marketing automation platform.
 - **License**: MIT
 - **Why It Matters**: Designed as a modern self-hosted alternative to Braze and Iterable. Dispatches data-driven emails, SMS, and push notifications with visual journey flows.
 
-### 22. [Apache Unomi](https://github.com/apache/unomi) [![GitHub stars](https://img.shields.io/github/stars/apache/unomi?style=social&color=white)](https://github.com/apache/unomi/stargazers)
+### 22. [Apache Unomi](https://github.com/apache/unomi) [![GitHub_Stars](https://img.shields.io/github/stars/apache/unomi?style=social&color=white)](https://github.com/apache/unomi/stargazers)
 - **Primary Focus**: Reference Customer Data Platform implementing OASIS Context Server.
 - **License**: Apache-2.0
 - **Why It Matters**: Enterprise Java/Karaf-based CDP designed for privacy, consent tracking, real-time personalization, and cross-application customer data aggregation.
 
-### 23. [MailifyFlow](https://github.com/199ocero/mailifyflow) [![GitHub stars](https://img.shields.io/github/stars/199ocero/mailifyflow?style=social&color=white)](https://github.com/199ocero/mailifyflow/stargazers)
+### 23. [MailifyFlow](https://github.com/199ocero/mailifyflow) [![GitHub_Stars](https://img.shields.io/github/stars/199ocero/mailifyflow?style=social&color=white)](https://github.com/199ocero/mailifyflow/stargazers)
 - **Primary Focus**: Self-hosted email marketing platform built with Laravel and Amazon SES.
 - **License**: MIT / Open
 - **Why It Matters**: Modern FilamentPHP admin UI with Maizzle responsive email templates, drip campaigns, and subscriber cohort management.
 
-### 24. [Helio](https://github.com/achref-soua/helio) [![GitHub stars](https://img.shields.io/github/stars/achref-soua/helio?style=social&color=white)](https://github.com/achref-soua/helio/stargazers)
+### 24. [Helio](https://github.com/achref-soua/helio) [![GitHub_Stars](https://img.shields.io/github/stars/achref-soua/helio?style=social&color=white)](https://github.com/achref-soua/helio/stargazers)
 - **Primary Focus**: AI-native growth platform unifying CDP, journey orchestration, and analytics.
 - **License**: AGPL-3.0
 - **Why It Matters**: Built on the Temporal workflow engine. Features natural-language segmentation, predictive scoring, brand-voice AI copy generation, and Model Context Protocol (MCP) servers for autonomous AI marketing agents.
 
-### 25. [LEO CDP](https://github.com/trieu/leo-cdp-framework) [![GitHub stars](https://img.shields.io/github/stars/trieu/leo-cdp-framework?style=social&color=white)](https://github.com/trieu/leo-cdp-framework/stargazers)
+### 25. [LEO CDP](https://github.com/trieu/leo-cdp-framework) [![GitHub_Stars](https://img.shields.io/github/stars/trieu/leo-cdp-framework?style=social&color=white)](https://github.com/trieu/leo-cdp-framework/stargazers)
 - **Primary Focus**: AI-first Customer Data Platform for self-hosted enterprise infrastructure.
 - **License**: Open Source Framework
 - **Why It Matters**: Built with Java, Python, ArangoDB, and Apache Airflow. Features Customer 360 profiles, RFM/CLV calculation, churn prediction, and behavioral tracking.
 
-### 26. [MessageBirds](https://github.com/Mullassery/MessageBirds) [![GitHub stars](https://img.shields.io/github/stars/Mullassery/MessageBirds?style=social&color=white)](https://github.com/Mullassery/MessageBirds/stargazers)
+### 26. [MessageBirds](https://github.com/Mullassery/MessageBirds) [![GitHub_Stars](https://img.shields.io/github/stars/Mullassery/MessageBirds?style=social&color=white)](https://github.com/Mullassery/MessageBirds/stargazers)
 - **Primary Focus**: Event-driven Customer Data & Engagement Platform (Rust + TypeScript).
 - **License**: Apache-2.0
 - **Why It Matters**: High-throughput edge ingestion gateway with durable journey orchestration, identity resolution, real-time audience activation, and cross-platform SDKs.
@@ -240,7 +240,7 @@ Contributions from the community are warmly encouraged! To propose a new enterpr
 
 1. **Fork** this repository.
 2. Create a feature branch: `git checkout -b feature/new-martech-tool`.
-3. Add your entry into the appropriate table or list with factual descriptions, official links, pricing/limits, or star count badges.
+3. Add your entry into the appropriate table or list with factual descriptions, official links, pricing/limits, or Stars_Count badges.
 4. Verify link integrity and alphabetical/descending sorting standards.
 5. Submit a **Pull Request** detailing your additions.
 
